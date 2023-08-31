@@ -1,0 +1,27 @@
+{
+  "name": "webapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@morev/vue-transitions": "^2.3.6",
+    "@vueuse/core": "^10.2.1",
+    "axios": "^1.4.0",
+    "pinia": "^2.1.6",
+    "vee-validate": "^4.11.0",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.2",
+    "yup": "^1.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.3.9"
+  }
+}

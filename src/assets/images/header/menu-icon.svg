@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 787 787">
+  <defs>
+    <clipPath id="clip-Engage_Icon">
+      <rect width="787" height="787"/>
+    </clipPath>
+  </defs>
+  <g id="Engage_Icon" data-name="Engage Icon" clip-path="url(#clip-Engage_Icon)">
+    <g id="Group_36" data-name="Group 36" transform="translate(24.233 109.428)">
+      <path id="Line_44" data-name="Line 44" d="M649.37,121.846H52.173a69.673,69.673,0,0,1,0-139.346h597.2a69.673,69.673,0,1,1,0,139.346Z" transform="translate(17.5 231.899)" fill="#ffc32f"/>
+      <path id="Line_46" data-name="Line 46" d="M651.36,121.846H52.173a69.673,69.673,0,0,1,0-139.346H651.36a69.673,69.673,0,1,1,0,139.346Z" transform="translate(17.5 446.298)" fill="#ffc32f"/>
+      <path id="Line_45" data-name="Line 45" d="M452.295,121.846H52.173a69.673,69.673,0,0,1,0-139.346H452.295a69.673,69.673,0,0,1,0,139.346Z" transform="translate(17.5 17.5)" fill="#6d6e6d"/>
+      <circle id="Ellipse_32" data-name="Ellipse 32" cx="69.673" cy="69.673" r="69.673" transform="translate(597.197 428.798)" fill="#eaac2a"/>
+    </g>
+  </g>
+</svg>
