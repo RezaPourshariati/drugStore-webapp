@@ -5,6 +5,7 @@ import { usePinia } from '../store/pinia';
 
 const HttpClient = axios.create({
   baseURL: 'https://attarpich.hamrahefadak.ir/api/',
+  timeout: 10000,
   headers: {
     'Content-Type': 'application/json;charset=UTF-8',
     Accept: 'application/json',
